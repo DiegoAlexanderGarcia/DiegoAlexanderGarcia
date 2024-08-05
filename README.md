@@ -18,10 +18,10 @@
 
 ## Proyectos Destacados
 
-### [Proyecto 1]([https://github.com/tuusuario/proyecto1](https://github.com/CamiloMachuca/Proyecto_pythom_MachucaCamilo_GarciaDiego.git))
+### [Proyecto 1]([https://github.com/tuusuario/proyecto1](https://github.com/CamiloMachuca/Proyecto_pythom_MachucaCamilo_GarciaDiego.git)
 Proyecto filtro en el que se realiza un programa en el que se hace seguimiento academico a todos los campers.
 
-### [Proyecto 2]([https://github.com/tuusuario/proyecto2](https://github.com/JhonatanOmana/PROYECTO-FILTRO_GARCIADIEGO_OMA-AJHONATAN.git))
+### [Proyecto 2]([https://github.com/tuusuario/proyecto2](https://github.com/JhonatanOmana/PROYECTO-FILTRO_GARCIADIEGO_OMA-AJHONATAN.git)
 Proyecto filtro en el que se realisa un desarrollo FrontEnd en el que se puede mostrar un panel de gestionamiento de proyectos y sus modulos necesarios para la empresa.
 
 
