@@ -1,9 +1,18 @@
-
+<div align="center">
 ### Hola soy Diego Alexander Garcia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</div>
 
+<br>
+
+<div align="center">
+  
 [![GitHub followers](https://img.shields.io/github/followers/DiegoAlexanderGarcia?label=Follow&style=social)](https://github.com/DiegoAlexanderGarcia)
 
-## 👨‍💻 Perfil Profesional
+</div>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 Soy **Desarrollador Fullstack Junior** con experiencia en el desarrollo web y una fuerte orientación hacia la creación de soluciones escalables. Actualmente me encuentro en proceso de formación continua y he trabajado con tecnologías como **HTML**, **CSS**, **JavaScript**, y **MySQL**. 
 
