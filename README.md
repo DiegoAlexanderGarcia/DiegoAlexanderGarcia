@@ -101,7 +101,7 @@ Mi interés se extiende al **backend** y **bases de datos**, donde busco adquiri
 
 ----	
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=DiegoAlexanderGarcia&show_icons=true&theme=transparent" alt="DiegoAlexanderGarcia
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoAlexanderGarcia&theme=tokyonight_duo" alt="DiegoAlexanderGarcia
 " /></p>
 
 </details>
@@ -112,7 +112,7 @@ Mi interés se extiende al **backend** y **bases de datos**, donde busco adquiri
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img src="https://github-readme-stats.vercel.app/api?username=DiegoAlexanderGarcia&show_icons=true&theme=transparent" alt="DiegoAlexanderGarcia" /></a>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiegoAlexanderGarcia&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoAlexanderGarcia&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="DiegoAlexanderGarcia" height="230px"/>
 <br/>
 
