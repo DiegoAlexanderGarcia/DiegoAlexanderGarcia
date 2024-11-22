@@ -91,7 +91,7 @@ Mi interés se extiende al **backend** y **bases de datos**, donde busco adquiri
 ## 📫 ¿Cómo Contactarme?
 
 - 📧 [Correo electrónico](mailto:dggarcia855@gmail.com)  
-- 💬 [LinkedIn](#) (si tienes un perfil de LinkedIn, agrega el enlace aquí)  
+- 💬 [LinkedIn](https://www.linkedin.com/in/diego-alexander-garcia-rodriguez-a7a780321/) 
 
 
 
