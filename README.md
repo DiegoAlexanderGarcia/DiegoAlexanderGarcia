@@ -127,7 +127,7 @@ Mi interés se extiende al **backend** y **bases de datos**, donde busco adquiri
 	
 <div>
   <p align="center">
-	<a href="https://github.com/DiegoAlexanderGarcia/Python_Diego_Garcia">
+	<a href="https://github.com/DiegoAlexanderGarcia/Python_GarciaDiego">
       		<img src="https://github.com/DiegoAlexanderGarcia/Python_GarciaDiego.git" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
