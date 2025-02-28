@@ -91,9 +91,7 @@ Mi interés se extiende al **backend** y **bases de datos**, donde busco adquiri
 ## 📫 ¿Cómo Contactarme?
 
 - 📧 [Correo electrónico](mailto:dggarcia855@gmail.com)  
-- 💬 [LinkedIn](https://www.linkedin.com/in/diego-alexander-garcia-rodriguez-a7a780321/) 
-
-
+ </picture> </a> <a href="https://www.linkedin.com/in/diego-alexander-garcia-rodriguez-a7a780321/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
@@ -104,9 +102,10 @@ Mi interés se extiende al **backend** y **bases de datos**, donde busco adquiri
 ----
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DiegoAlexanderGarcia&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoAlexanderGarcia&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="DiegoAlexanderGarcia" height="230px"/>
+	<a href="http://www.github.com/DiegoAlexanderGarcia"><img src="https://github-readme-stats.vercel.app/api?username=DiegoAlexanderGarcia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DiegoAlexanderGarcia's GitHub stats" /></a>
+
+<a href="http://www.github.com/DiegoAlexanderGarcia"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoAlexanderGarcia&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
