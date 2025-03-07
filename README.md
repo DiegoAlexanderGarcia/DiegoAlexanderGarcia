@@ -4,6 +4,9 @@
 
 </div>
 
+![DIEGO;DAGR](https://github.com/user-attachments/assets/8ab5c95b-f7c7-445f-8cb4-1dc69d2268aa)
+
+
 <br>
 
 <div align="center">
